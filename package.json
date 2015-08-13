@@ -6,7 +6,7 @@
     "homepage": "http://elab.emerson.edu/",
     "author": "Johnny Richardson <johnny@elab.emerson.edu>",
     "dependencies": {
-        "diet": "0.9.14",
+        "diet": "0.9.14"
     },
     "main": "server",
     "engines": {

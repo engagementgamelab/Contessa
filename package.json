@@ -1,0 +1,15 @@
+{
+    "name": "Engagement Lab Contessa",
+    "version": "0.0.1",
+    "description": "Engagement Lab's server/VPS deployment utilities.",
+    "repository": "https://github.com/engagementgamelab/Contessa.git",
+    "homepage": "http://elab.emerson.edu/",
+    "author": "Johnny Richardson <johnny@elab.emerson.edu>",
+    "dependencies": {
+        "diet": "0.9.14",
+    },
+    "main": "server",
+    "engines": {
+        "node": ">= 0.12.7"
+    }
+}
